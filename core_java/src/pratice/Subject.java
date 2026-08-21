@@ -3,7 +3,7 @@ package pratice;
 public class Subject {
 
 	public static void main(String[] args) {
-		System.out.println("Math");		// TODO Auto-generated method stub
+		System.out.println("School");		// TODO Auto-generated method stub
 
 	}
 
