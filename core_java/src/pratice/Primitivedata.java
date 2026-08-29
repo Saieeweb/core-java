@@ -13,7 +13,7 @@ public class Primitivedata {
 	
 	System.out.println("Marks = "+ Marks);
 	System.out.println("Age = " + Age);
-	System.out.println("Per = "  + per);
+	System.out.println("Per = " + Per);
 	System.out. println("Salary = " + Salary);
 	System.out.println("Class = " + Class);
 	System.out.println("id = " + id);
