@@ -9,7 +9,7 @@ int res;
 		int a=56;
 		int b=76;
 		int res=a+b;
-		System.out.println("res="res);
+		System.out.println("res=" +res);
 		// TODO Auto-generated method stub
 
 	}
