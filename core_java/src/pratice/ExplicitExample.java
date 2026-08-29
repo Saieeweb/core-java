@@ -1,9 +1,8 @@
 package pratice;
-t
-public class Second {
+
+public class ExplicitExample {
 
 	public static void main(String[] args) {
-		System.out.println("saiee");
 		// TODO Auto-generated method stub
 
 	}
