@@ -20,6 +20,10 @@ public class Ladder {
 			System.out.println("A");
 			
 		}
+		else if (marks >=75 && marks <=100)
+		{
+		System.out.println("A+");
+		}
 		else 
 		{
 			System.out.println("fail");
