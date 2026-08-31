@@ -4,7 +4,7 @@ public class ladder2 {
 
 	public static void main(String[] args) 
 	{
-int num=70;
+int num=789;
 if (num%2==0 && num%3==0)
 {
 	System.out.println("2,3");
