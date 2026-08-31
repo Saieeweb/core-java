@@ -3,7 +3,7 @@ package pratice;
 public final class ladder4 {
 
 	public static void main(String[] args) {	
-double rating=9;
+double rating=4.5;
 
 if 
 (rating>=9 && rating<=10)
