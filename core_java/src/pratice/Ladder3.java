@@ -3,7 +3,7 @@ package pratice;
 public class Ladder3 {
 
 	public static void main(String[] args) {
-int age=67;
+int age=81;
 
 if (age>=14 && age<=17)
 {
