@@ -28,21 +28,30 @@ public class WhileEven {
 		//}*
 	//}
 	//}
+	//	int num=1;
+		//int sum=0;
+		 //int counter=1;
+		 //wh//ile (counter<=50)
+		 //{
+			// if (num%2==0)
+			//	 {
+				// System.out.println(num);
+	//			 counter++;
+		//		 sum=sum+num;
+			//	 }
+			 //num++;
+//				 }
+	//	 System.out.println("sum"+sum);
+	
+		
 		int num=1;
 		int sum=0;
-		 int counter=1;
-		 while (counter<=50)
-		 {
-			 if (num%2==0)
-				 {
-				 System.out.println(num);
-				 counter++;
-				 sum=sum+num;
-				 }
-			 num++;
-				 }
-		 System.out.println("sum"+sum);
-		
+		while(num<=50)
+			if (num%2==0)
+		{
+			System.out.println(num);
+			num++;
+		}
 	}
 }
 			
