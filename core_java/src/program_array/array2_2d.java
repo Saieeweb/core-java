@@ -1,7 +1,7 @@
 package program_array;
 
 public class array2_2d {
-
+if
 	public static void main(String[] args) {
 		int[][]numbers= {
 				{187,765,908},
