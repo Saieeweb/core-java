@@ -4,8 +4,9 @@ public class object4_ {
 
 	public static void main(String[] args) {
 		Book first = new Book();
-		first.bookname=""
-		
+		first.bookname="javabook"
+	    first.bookprice=100;
+		first.bookauthor
 		
 
 	}
@@ -14,7 +15,7 @@ public class object4_ {
  class Book 
  {
 	 String bookname;
-	 int biikprice;
+	 int bookprice;
 	 String bookauthor;
 	 int bookpage;
 	 String booklanguage;
