@@ -3,7 +3,7 @@ package OOPS;
 public class polymophric {
 
 	public static void main(String[] args) {
-		Parent P = new Child();
+		Parent12 P = new Child23();
 		P.red();
 		P.green();
 		P.blue();
@@ -12,7 +12,7 @@ public class polymophric {
 	}
 
 }
-class Parent {
+class Parent12 {
 	public void red() {
 		System.out.println("red");
 	}
@@ -26,7 +26,7 @@ class Parent {
 		System.out.println("black");
 	}
 }
-class Child extends Parent
+class Child23 extends Parent12
 {
 	public void yellow()
 	{
