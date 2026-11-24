@@ -6,7 +6,6 @@ public class abstraction2 {
 Dog12 d = new Dog12();
 d.sound();
 d.eat();
-
 	}
 
 }
